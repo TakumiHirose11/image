@@ -1,2 +1,2 @@
-./mnist/data/*
-./CIFAR-10/data/*
+mnist/data/*
+CIFAR-10/data/*
