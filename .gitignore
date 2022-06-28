@@ -2,3 +2,4 @@ mnist/data/*
 CIFAR-10/data/*
 Dogs_vs_Cats/data/*
 RNN/projectnextnlp-chat-dialogue-corpus/*
+OpenCV_practice/haarcascades/*
